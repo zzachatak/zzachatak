@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Zach
 <a href="https://www.linkedin.com/in/zachary-johnston-b91998307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -14,12 +14,12 @@ My journey in cyber security has led me to develop a passion for offensive secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network infrastructure connected to a Website and AD/Email Server        | <a href="https://google.com">Project</a>|
+| Active Directory Home Lab | <a href="https://google.com">AD Lab</a>|
+| Pentesting Kali Report and Home LAB| Pentest Lab|
+| CISCO Network LAB     | Network Lab|
+| Troubleshooting Lab| Troubleshooting AD Lab|
+| Firewall Configure Lab| Firewall Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
