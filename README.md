@@ -10,7 +10,7 @@ I am a student that is currently studying Cyber Security. I am looking forward f
 My journey in cyber security has led me to develop a passion for offensive security, I often find a large amount of curiosity in finding vulnerabilities and finding solutions to fix them. Long term I am looking to pursue an offensive secruity role and become a Pentester. I have been able to experiment with Home labs in order to replicate common attack vectors that are seen in the field. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +21,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 | Troubleshooting Lab| Troubleshooting AD Lab|
 | Firewall Configure Lab| Firewall Lab|
 
-## Tools
+## Tools/Knowledge
 
 ### Network
 <div>
@@ -30,21 +30,33 @@ My journey in cyber security has led me to develop a passion for offensive secur
     <img src="https://img.shields.io/badge/-Metasploit-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### OS Experience
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%2011-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%2010-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%207-00A4EF?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%20Server%202019-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server%202022-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
+    
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=centos&logoColor=white" />
+
+
 </div>
 
 ### Infrastructure Configuration
 <div>
-    <img src="https://img.shields.io/badge/-Active Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firewalls-FF0000?&style=for-the-badge&logo=Firewall&logoColor=white" />
+<img src="https://img.shields.io/badge/-Router%2FSwitch%20Config-00A4EF?&style=for-the-badge&logo=cisco&logoColor=white" />
+
+
+
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 Jan 2025 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     
@@ -52,5 +64,5 @@ June 2025 <img src="https://img.shields.io/badge/-CCNA-0066CC?&style=for-the-bad
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Network infrastructure Website Project
+- Pentest Project
