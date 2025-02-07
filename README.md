@@ -15,7 +15,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network infrastructure| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">Project</a>|
-| Active Directory| <a href="https://google.com">AD Lab</a>|
+| Active Directory| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">AD Lab</a>|
 | Pentesting: Nmap and Brup Suite| Pentest Lab|
 | CISCO Network | Network Lab|
 | Troubleshooting OS and Printers| Troubleshooting Lab|
