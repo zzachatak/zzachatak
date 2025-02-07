@@ -14,13 +14,13 @@ My journey in cyber security has led me to develop a passion for offensive secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network infrastructure connected to a Website and AD/Email Server        | <a href="https://google.com">Project</a>|
-| Active Directory Home Lab | <a href="https://google.com">AD Lab</a>|
-| Pentesting Kali Report and Home LAB| Pentest Lab|
-| CISCO Network LAB     | Network Lab|
-| Troubleshooting Lab| Troubleshooting AD Lab|
-| Firewall Configure Lab| Firewall Lab|
-
+| Network infrastructure| <a href="https://google.com">Project</a>|
+| Active Directory| <a href="https://google.com">AD Lab</a>|
+| Pentesting: Nmap and Brup Suite| Pentest Lab|
+| CISCO Network | Network Lab|
+| Troubleshooting OS and Printers| Troubleshooting Lab|
+| Firewall Configure| Firewall Lab|
+| Website HTML| Project|
 ## Tools/Knowledge
 
 ### Network
