@@ -1,14 +1,13 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zachary-johnston-b91998307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a student that is currently studying Cyber Security. I am looking forward for an opportunity to start my career in Cyber secruity/IT. Within my program I have learned a deep understanding of Cisco Networking and OS Fundmentals. Key secruity princples have been a huge focus for my degree, understanding the CIA tri and security best practices. I was taught Active directory and Virtual machines with Vmware and in the cloud with Azure.  I was able to have opportunities that allowed for project management and communicating with team members. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My journey in cyber security has led me to develop a passion for offensive security, I often find a large amount of curiosity in finding vulnerabilities and finding solutions to fix them. Long term I am looking to pursue an offensive secruity role and become a Pentester. I have been able to experiment with Home labs in order to replicate common attack vectors that are seen in the field. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
