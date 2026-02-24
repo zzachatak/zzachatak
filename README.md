@@ -21,7 +21,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 | Troubleshooting OS and Printers| Troubleshooting Lab|
 | Firewall Configure| Firewall Lab|
 | Website HTML| Project|
-| Cloud Enumeration | <a hre="https://www.youtube.com/watch?v=SfvCNZiI0AQ"> </a>
+| Cloud Enumeration | <a hre="https://www.youtube.com/watch?v=SfvCNZiI0AQ"> Cloud Lab </a>
 ## Tools/Knowledge
 
 ### Network
