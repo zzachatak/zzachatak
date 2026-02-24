@@ -61,7 +61,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 <div>
 Jan 2025 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     
-June 2025 <img src="https://img.shields.io/badge/-CCNA-0066CC?&style=for-the-badge&logo=cisco&logoColor=white" />
+
 </div>
 
 ## Projects
