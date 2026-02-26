@@ -17,7 +17,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 | Network infrastructure| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">Project</a>|
 | Active Directory| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">AD Lab</a>|
 | Web app| vulnerable web app on proxmox|
-| Web app | juice shop exploiting|
+| Web app | Web Capstone HS|
 | Cloud Breach Research| 
 | Cloud Enumeration | <a href="https://www.youtube.com/watch?v=SfvCNZiI0AQ"> Cloud Lab </a>
 ## Tools/Knowledge
