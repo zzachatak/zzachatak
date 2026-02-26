@@ -18,6 +18,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 | Active Directory| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">AD Lab</a>|
 | Web app| vulnerable web app on proxmox|
 | Web app | Web Capstone Hacksmarter|
+| Web Notes | <href="https://www.notion.so/Web-App-30a123f6e0f48090bc80f4d823674b37?source=copy_link"> Notes </a>|
 | Cloud Breach Research| 
 | Cloud Enumeration | <a href="https://www.youtube.com/watch?v=SfvCNZiI0AQ"> Cloud Lab </a>
 ## Tools/Knowledge
