@@ -19,6 +19,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 | Web app| vulnerable web app on proxmox|
 | Web app | Web Capstone Hacksmarter|
 | Cloud Breach Research| 
+| CCTV HTB Write Up| <a href="https://www.notion.so/HTB-CCTV-31c123f6e0f480deb069cc902612c54a"> Write up </a>
 | Cloud Enumeration | <a href="https://www.youtube.com/watch?v=SfvCNZiI0AQ"> Cloud Lab </a>
 ## Tools/Knowledge
 
