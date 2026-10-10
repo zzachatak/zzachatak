@@ -1,68 +1,45 @@
-# Hello, I'm Zach
+# Zach Johnston
+ 
+**Offensive Security · Network & Cloud Infrastructure · CompTIA Security+**
+ 
 <a href="https://www.linkedin.com/in/zachary-johnston-b91998307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-I am a student that is currently studying Cyber Security. I am looking forward for an opportunity to start my career in Cyber secruity/IT. Within my program I have learned a deep understanding of Cisco Networking and OS Fundmentals. Key secruity princples have been a huge focus for my degree, understanding the CIA tri and security best practices. I was taught Active directory and Virtual machines with Vmware and in the cloud with Azure.  I was able to have opportunities that allowed for project management and communicating with team members. 
-
-## Objective
-
-
-My journey in cyber security has led me to develop a passion for offensive security, I often find a large amount of curiosity in finding vulnerabilities and finding solutions to fix them. Long term I am looking to pursue an offensive secruity role and become a Pentester. I have been able to experiment with Home labs in order to replicate common attack vectors that are seen in the field. 
-
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network infrastructure| <a href="https://github.com/zzachatak/Tallypoint-Network">Project</a>|
-| Active Directory| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">AD Lab</a>|
-| Web app| vulnerable web app on proxmox|
-| Web app | Web Capstone Hacksmarter|
-| Cloud Breach Research| 
-| CCTV HTB Write Up| <a href="https://www.notion.so/HTB-CCTV-31c123f6e0f480deb069cc902612c54a"> Write up </a>
-| Cloud Enumeration | <a href="https://www.youtube.com/watch?v=SfvCNZiI0AQ"> Cloud Lab </a>
-## Tools/Knowledge
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-nMap-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### OS Experience
-<div>
-    <img src="https://img.shields.io/badge/-Windows%2011-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows%2010-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows%207-00A4EF?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows%20Server%202019-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows%20Server%202022-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-
-    
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=centos&logoColor=white" />
-
-
-</div>
-
-### Infrastructure Configuration
-<div>
-<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Firewalls-FF0000?&style=for-the-badge&logo=Firewall&logoColor=white" />
-<img src="https://img.shields.io/badge/-Router%2FSwitch%20Config-00A4EF?&style=for-the-badge&logo=cisco&logoColor=white" />
-
-
-
-</div>
-
-## Certifications
-
-<div>
-Jan 2025 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    
-
-</div>
-
-## Projects
-- Network infrastructure Website Project
-- Pentest Project
+ 
+I find vulnerabilities, exploit them in controlled environments, and document how to fix them. My work focuses on penetration testing across web applications, Active Directory and cloud, backed by hands-on experience designing and hardening the networks I attack. Every lab I build is used twice: first to break in, then to lock it down.
+ 
+## Focus areas
+ 
+- **Offensive security:** reconnaissance, enumeration, exploitation and clear write-ups of attack paths and remediation
+- **Web application security:** testing intentionally vulnerable applications and capstone targets
+- **Active Directory:** building domain environments and practicing the attacks used against them
+- **Cloud security:** cloud enumeration, breach research and secure-by-default cloud network design
+- **Infrastructure:** Cisco routing and switching, firewalls, Windows and Linux servers, virtualization
+## Featured work
+ 
+### [Tallypoint Systems: Small Business Network on Google Cloud](https://github.com/zzachatak/Tallypoint-Network)
+ 
+Designed, built and documented a multi-server business network on Google Cloud.
+ 
+- Private VPC with **no public IPs** on internal servers; administration only through Google Identity-Aware Proxy
+- Public **WordPress + WooCommerce** store deployed with a scripted WP-CLI installer
+- **MariaDB** inventory system with phpMyAdmin, a read-only auditor role and host-level firewalling (UFW)
+- Cloud firewall rules that isolate the public store from internal systems, following least privilege
+### [Hack The Box: CCTV](https://www.notion.so/HTB-CCTV-31c123f6e0f480deb069cc902612c54a)
+ 
+Full write-up of the CCTV machine, from initial enumeration through exploitation, with the reasoning behind each step.
+ 
+## Portfolio
+ 
+| Area | Work | Link |
+|---|---|---|
+| Offensive security | Hack The Box: CCTV write-up | <a href="https://www.notion.so/HTB-CCTV-31c123f6e0f480deb069cc902612c54a">Write-up</a> |
+| Cloud security | Cloud enumeration lab | <a href="https://www.youtube.com/watch?v=SfvCNZiI0AQ">Cloud Lab</a> |
+| Cloud security | Cloud breach research | Coming soon |
+| Web application security | Vulnerable web application on Proxmox | Coming soon |
+| Web application security | Hacksmarter web capstone | Coming soon |
+| Active Directory | Active Directory lab | <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">AD Lab</a> |
+| Network infrastructure | Tallypoint small business network on Google Cloud | <a href="https://github.com/zzachatak/Tallypoint-Network">Project</a> |
+ 
+## Open to
+ 
+Penetration testing, security analyst and infrastructure roles. Reach me on [LinkedIn](https://www.linkedin.com/in/zachary-johnston-b91998307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+ 
