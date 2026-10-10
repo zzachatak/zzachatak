@@ -14,7 +14,7 @@ My journey in cyber security has led me to develop a passion for offensive secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network infrastructure| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">Project</a>|
+| Network infrastructure| <a href="https://github.com/zzachatak/Tallypoint-Network">Project</a>|
 | Active Directory| <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">AD Lab</a>|
 | Web app| vulnerable web app on proxmox|
 | Web app | Web Capstone Hacksmarter|
