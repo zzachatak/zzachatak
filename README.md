@@ -5,6 +5,12 @@
 <a href="https://www.linkedin.com/in/zachary-johnston-b91998307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 I find vulnerabilities, exploit them in controlled environments, and document how to fix them. My work focuses on penetration testing across web applications, Active Directory and cloud, backed by hands-on experience designing and hardening the networks I attack. Every lab I build is used twice: first to break in, then to lock it down.
+### [Internal Active Directory Penetration Test: Findings Report](https://github.com/zzachatak/Pentesting-Reports/blob/main/TCMS%20-%20AFC%20Richmond%20-%20Findings%20Report.pdf)
+
+Professional findings report from an internal network penetration test against a simulated corporate Active Directory environment (AFC Richmond).
+
+- Executive summary, risk-rated findings and step-by-step attack narrative
+- Remediation guidance for each finding
  
 ## Focus areas
  
