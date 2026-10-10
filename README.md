@@ -33,9 +33,7 @@ Full write-up of the CCTV machine, from initial enumeration through exploitation
 |---|---|---|
 | Offensive security | Hack The Box: CCTV write-up | <a href="https://www.notion.so/HTB-CCTV-31c123f6e0f480deb069cc902612c54a">Write-up</a> |
 | Cloud security | Cloud enumeration lab | <a href="https://www.youtube.com/watch?v=SfvCNZiI0AQ">Cloud Lab</a> |
-| Cloud security | Cloud breach research | Coming soon |
-| Web application security | Vulnerable web application on Proxmox | Coming soon |
-| Web application security | Hacksmarter web capstone | Coming soon |
+| Active Directory | Internal AD Pentest | [Findings Report](https://github.com/zzachatak/Pentesting-Reports/blob/main/TCMS%20-%20AFC%20Richmond%20-%20Findings%20Report.pdf) |
 | Active Directory | Active Directory lab | <a href="https://github.com/zzachatak/zzachatak/blob/main/ADLAB.md">AD Lab</a> |
 | Network infrastructure | Tallypoint small business network on Google Cloud | <a href="https://github.com/zzachatak/Tallypoint-Network">Project</a> |
  
